@@ -1,0 +1,8 @@
+{
+  "name": "Ai là triệu phú Toán 12 -bài 11",
+  "description": "Trò chơi Ai Là Triệu Phú Toán 12 toàn diện: 13 bài học, 39 bộ đề (585 câu hỏi), đồ thị & hình không gian 3D chuẩn TikZ, lưu toàn bộ lịch sử thi đấu và công thức LaTeX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
